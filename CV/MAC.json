@@ -9,7 +9,7 @@
       "name": "Paris",
       "surnames": "Martínez Ruiz",
       "title": "Data Scientist",
-      "description": "I always wanted to be a developer. I love team work and from time to time, i like to do pair programming.",
+      "description": "Data Scientist with great affinity for maths. Machine learning and AI enthusiast passionate about data in all formats. Great team player always willing to help, support and inspire others.",
       "avatar": {
         "alt": "foto_perfil.jpg",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/27/58e22d14-29b1-4759-9bb7-c6b55d270306_foto_perfil.jpg"
@@ -38,8 +38,8 @@
     ],
     "interestingFacts": [
       {
-        "topic": "I love Astronomy",
-        "fact": "Black Holes\nSupernovas\nExoplanets\n"
+        "topic": "I love Science",
+        "fact": "My favorite series is Halt and catch fire and y love astronomy\n"
       }
     ]
   },
