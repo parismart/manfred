@@ -1,0 +1,269 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Paris",
+      "surnames": "Martínez Ruiz",
+      "title": "Data Scientist",
+      "description": "I always wanted to be a developer. I love team work and from time to time, i like to do pair programming.",
+      "avatar": {
+        "alt": "foto_perfil.jpg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/27/58e22d14-29b1-4759-9bb7-c6b55d270306_foto_perfil.jpg"
+      },
+      "location": {
+        "notes": "Valencia"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/parismart"
+      },
+      {
+        "type": "other",
+        "URL": "https://stackoverflow.com/users/12566360/parmarti"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/TroyaParisde"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/paris-mart%C3%ADnez/"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "I love Astronomy",
+        "fact": "Black Holes\nSupernovas\nExoplanets\n"
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "Catalan"
+      },
+      {
+        "name": "English"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Selenium",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Pandas",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jupyter",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MatPlotlib",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": false,
+        "name": "Bootcamp Data Science",
+        "startDate": "2022-04-01",
+        "institution": {
+          "name": "The Bridge",
+          "description": "El Bootcamp de Data Science Developer es un programa intensivo y práctico en el que aprenderás a utilizar las técnicas más avanzadas en inteligencia artificial y machine learning para resolver problemas complejos y obtener así información de valor para la toma de decisiones en diversas industrias. Dirigido a personas que buscan especializarse en ciencia de datos, controlar las principales técnicas de Inteligencia Artificial y saber cómo aplicarlas en diferentes industrias y escenarios del mundo real resolviendo problemas, innovando y realizando predicciones en una empresa mediante el uso de datos.",
+          "image": {
+            "alt": "thebridge.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/27/14e50819-4198-4e47-ae60-9845f501b6dc_thebridge.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Github",
+            "type": "technology"
+          },
+          {
+            "name": "Jupyter",
+            "type": "technology"
+          },
+          {
+            "name": "MatPlotlib",
+            "type": "technology"
+          },
+          {
+            "name": "Numpy",
+            "type": "technology"
+          },
+          {
+            "name": "Pandas",
+            "type": "technology"
+          },
+          {
+            "name": "Power BI",
+            "type": "technology"
+          },
+          {
+            "name": "PyTorch",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          },
+          {
+            "name": "Selenium",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Python Fundamentals",
+        "startDate": "2022-04-01",
+        "finishDate": "2022-04-01",
+        "institution": {
+          "name": "The Bridge",
+          "description": "Fundamentos de Python para Data Science. El alumno ha demostrado conocimientos de programación python y acceso a datos para abordar problemas de Data Science",
+          "URL": "https://badgr.com/public/assertions/5hu55CfKRdKFxA4nY5UAmw?identity__email=parismrt%40gmail.com",
+          "image": {
+            "alt": "assertion-5hu55CfKRdKFxA4nY5UAmw.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/27/63e2fc6e-d6b1-4219-9f4f-c09eb76419a7_assertion-5hu55cfkrd.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "SQL",
+        "startDate": "2022-04-01",
+        "finishDate": "2022-04-01",
+        "institution": {
+          "name": "HackerRank",
+          "URL": "https://www.hackerrank.com/certificates/c08adedc7e11",
+          "image": {
+            "alt": "HackerRank_Icon-1000px.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/27/b0572595-e250-4925-b519-c75457b4d8df_hackerrank_icon-1000.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "SQL",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "C",
+        "startDate": "2022-04-01",
+        "finishDate": "2022-04-01",
+        "institution": {
+          "name": "SoloLearn",
+          "URL": "https://www.sololearn.com/Certificate/1089-25434480/jpg",
+          "image": {
+            "alt": "sololearn.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/27/4444baf8-9079-4fb5-b1bf-f545018f7ae1_sololearn.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "C",
+            "type": "technology"
+          }
+        ]
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/paris-mart%C3%ADnez/"
+        },
+        {
+          "type": "other",
+          "URL": "https://stackoverflow.com/users/12566360/parmarti"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "MacOS",
+          "type": "technology"
+        },
+        {
+          "name": "Power BI",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "SQL",
+          "type": "technology"
+        },
+        {
+          "name": "Tableau",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
